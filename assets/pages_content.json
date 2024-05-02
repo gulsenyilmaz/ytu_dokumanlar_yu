@@ -1,0 +1,766 @@
+{
+  "list": [
+    {
+      "title":"Homepage",
+      "bg":"assets/images/main_titles.jpg",
+      "content_type": "main_titles",
+      "sub_list": [
+          {
+            "title":"Yıldız Üniversitesi Dergisi", 
+            "bg":"assets/images/arkaplan.jpg",
+            "color":"FF7ca7ab",
+            "content_type": "side_titles",
+            "sub_list":[
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_1.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_1.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_2.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_3.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_4.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_5.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_6.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_7.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_8.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_9.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              }
+
+            ],
+            "description":"Lorem ipsum of Ögrencilerin sesi'"
+          },
+          {
+            "title":"Yıldız Üniversitesi Lisansüstü Kataloğu", 
+            "bg":"assets/images/arkaplan.jpg",
+            "color":"FFa45f5e",
+            "content_type": "side_titles",
+            "sub_list":[
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_1.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_1.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_2.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_3.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_4.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_5.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_6.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_7.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_8.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_9.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              }
+
+            ],
+            "description":"Lorem ipsum of Ögrencilerin sesi'"
+          },
+          {
+            "title":"Fen Bilimleri Enstitüsü Lisansüstü Yaz Okulu Notları", 
+            "bg":"assets/images/arkaplan.jpg",
+            "color":"FF8b9166",
+            "content_type": "side_titles",
+            "sub_list":[
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_1.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_1.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_2.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_3.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_4.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_5.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_6.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_7.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_8.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_9.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              }
+
+            ],
+            "description":"Lorem ipsum of Ögrencilerin sesi'"
+          },
+          {
+            "title":"Mühendislik Fakültesi Kataloğu", 
+            "bg":"assets/images/arkaplan.jpg",
+            "color":"FFb18b7a",
+            "content_type": "side_titles",
+            "sub_list":[
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_1.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_1.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_2.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_3.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_4.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_5.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_6.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_7.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_8.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_9.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              }
+
+            ],
+            "description":"Lorem ipsum of Ögrencilerin sesi'"
+          },
+          {
+            "title":"Mimarlık Fakültesi Kataloğu", 
+            "bg":"assets/images/arkaplan.jpg",
+            "color":"FFa67eb2",
+            "content_type": "side_titles",
+            "sub_list":[
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_1.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_1.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_2.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_3.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_4.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_5.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_6.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_7.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_8.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_9.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              }
+
+            ],
+            "description":"Lorem ipsum of Ögrencilerin sesi'"
+          },
+          {
+            "title":"Makine Bölümü Ders Kitabı", 
+            "bg":"assets/images/arkaplan.jpg",
+            "color":"FF8b9166",
+            "content_type": "side_titles",
+            "sub_list":[
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_1.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_1.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_2.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_3.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_4.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_5.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_6.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_7.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_8.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_9.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              }
+
+            ],
+            "description":"Lorem ipsum of Ögrencilerin sesi'"
+          },
+          {
+            "title":"Kimya Bölümü Ders Notları", 
+            "bg":"assets/images/arkaplan.jpg",
+            "color":"FFb28a79",
+            "content_type": "side_titles",
+            "sub_list":[
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_1.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_1.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_2.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_3.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_4.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_5.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_6.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_7.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_8.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_9.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              }
+
+            ],
+            "description":"Lorem ipsum of Ögrencilerin sesi'"
+          },
+          {
+            "title":"Bilgisayar Mühendlisliği Bölümü Diploma Projesi", 
+            "bg":"assets/images/arkaplan.jpg",
+            "color":"FF7ca7ab",
+            "content_type": "side_titles",
+            "sub_list":[
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_1.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_1.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_2.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_3.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_4.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_5.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_6.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_7.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_8.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_9.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              }
+
+            ],
+            "description":"Lorem ipsum of Ögrencilerin sesi'"
+          },
+          {
+            "title":"Jeodezi ve Fotogrametri Bölümü Tanıtım Kılavuzu", 
+            "bg":"assets/images/arkaplan.jpg",
+            "color":"FFb28a79",
+            "content_type": "side_titles",
+            "sub_list":[
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_1.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_1.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_2.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_3.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_4.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_5.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_6.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_7.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_8.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_9.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              }
+
+            ],
+            "description":"Lorem ipsum of Ögrencilerin sesi'"
+          },
+          {
+            "title":"Şehir ve Bölge Planlama Bölümü Profesörlük Tezi", 
+            "bg":"assets/images/arkaplan.jpg",
+            "color":"FFa45f5e",
+            "content_type": "side_titles",
+            "sub_list":[
+              
+             
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_7.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_8.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              },
+              {
+                "type":"image",
+                "title":"content00", 
+                "path":"assets/images/book01_9.jpg",
+                "description":"Süre: 00:34 \n2 Ekim 2023"
+                
+              }
+
+            ],
+            "description":"Lorem ipsum of Ögrencilerin sesi'"
+          }
+         
+
+      ]
+    }
+  ]
+}
