@@ -37,9 +37,7 @@ class MainTitles extends StatelessWidget {
                         width:MediaQuery.of(context).size.width*0.47,
                         child:RowTitles(subList: subList, start:7, end:subList.length),
                       ),
-            
-          ],
-        
+            ],
         ),
       ],
     );

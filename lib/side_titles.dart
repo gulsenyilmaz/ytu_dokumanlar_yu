@@ -77,9 +77,10 @@ class _SideTitlesState extends State<SideTitles> {
                                                     onTap: () {
                                                       Navigator.push(
                                                           context,
-                                                          MaterialPageRoute(
-                                                            builder: (context) => PageTemplate(content:[item], parentContent:widget.parentContent),
-                                                            ),
+                                                          PageRouteBuilder(
+                                                              pageBuilder: (context, animation, secondaryAnimation) => PageTemplate(content:[item], parentContent:widget.parentContent),
+                                                          )
+                                                          
                                                       );
                                                     },
                                                     child: Ink(
